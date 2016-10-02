@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_account"
+        android:title="@string/my_account"/>
+    <item android:id="@+id/nav_home"
+        android:title="@string/home"/>
+    <item android:id="@+id/nav_photos"
+        android:title="@string/photos"/>
+    <item android:id="@+id/nav_messages"
+        android:title="@string/messages"/>
+    <item android:id="@+id/nav_settings"
+        android:title="@string/setttings"/>
+    <item android:id="@+id/nav_help"
+        android:title="@string/contact_us"/>
+
+</menu>

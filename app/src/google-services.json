@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "10125592522",
+    "firebase_url": "https://striker-work.firebaseio.com",
+    "project_id": "striker-work",
+    "storage_bucket": "striker-work.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10125592522:android:e4132ef375b253c7",
+        "android_client_info": {
+          "package_name": "com.example.krishna.striker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10125592522-bo31qhi40d40mlg3b7pikid2knh591h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9D8X-J96XTBMIsRxiIB0BPu57Ig_gt90"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
